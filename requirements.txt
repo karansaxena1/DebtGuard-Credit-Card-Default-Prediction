@@ -2,3 +2,4 @@ Flask
 pandas
 pickle-mixin
 gunicorn
+sklearn
